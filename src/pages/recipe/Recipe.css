@@ -33,3 +33,6 @@
   background: #555;
   color: #e4e4e4;
 }
+.recipe.dark .page-title {
+  color: #e4e4e4;
+}
